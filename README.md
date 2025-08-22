@@ -39,29 +39,7 @@
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white) 
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
-
----
-
-## 🚀 Featured Projects  
-
-### 🏥 AI Healthcare Voice Assistant  
-AI-powered assistant with real-time voice recognition & response.  
-**Tech Stack:** Next.js, React, TypeScript, AssemblyAI, Clerk, Neon DB  
-🔗 [GitHub Repo](#) | [Live Demo](#)  
-
----
-
-### 🌍 AI Trip Planner App  
-Full-stack SaaS travel planner with smart recommendations & interactive maps.  
-**Tech Stack:** Next.js, React, TypeScript, Convex, Arcjet, Clerk, Google Places API, Mapbox  
-🔗 [GitHub Repo](#) | [Live Demo](#)  
-
----
-
-### 💰 AI Finance Platform  
-Financial insights dashboard with AI-driven analysis & clean data visualization.  
-**Tech Stack:** Next.js, React, Prisma, Tailwind, ShadCN UI, Gemini AI, Clerk, Inngest, Supabase  
-🔗 [GitHub Repo](#) | [Live Demo](#)  
+  
 
 ---
 
@@ -70,13 +48,6 @@ Financial insights dashboard with AI-driven analysis & clean data visualization.
 - 👨‍💻 Team Leader – Code Battle (Senior vs Junior)  
 
 ---
-
-## 📊 GitHub Stats  
-![Ruchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruchit1512&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchit1512&layout=compact&theme=radical)  
-
----
-
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ruchit-rahul)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ruchit1512)  

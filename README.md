@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Ruchit Rahul  
 
-💻 **Full-Stack Developer | AI Integration Specialist**  
-🚀 Passionate about building scalable, interactive, and AI-powered web applications.  
+💻 **Software Engineer**  
+🚀 Passionate about building scalable, interactive, web applications.  
 
 ---
 
 ## 🧑‍💻 About Me  
 - 🔹 1+ year of experience as **Junior Software Engineer** (Peregrine IT Solutions)  
-- 🔹 Skilled in **Next.js, React, Tailwind, Prisma, Convex, AI API integrations**  
 - 🔹 Final-year B.Tech (CSE), RGPV Bhopal  
-- 🔹 Love experimenting with **AI + Web Development** to create impactful solutions  
 
 ---
 
@@ -35,7 +33,6 @@
 
 **AI & Tools:**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) 
-![AssemblyAI](https://img.shields.io/badge/AssemblyAI-0F9D58?style=flat) 
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white) 
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 

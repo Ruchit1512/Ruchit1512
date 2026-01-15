@@ -1,4 +1,4 @@
-👋 Hi, I'm Ruchit Rahul
+# 👋 Hi, I'm **Ruchit**
 
 💻 Full Stack Web Developer
 🤖 AI-Integrated Application Developer
@@ -34,7 +34,7 @@ Secure RESTful APIs
 MongoDB (Mongoose)
 
 🤖 AI Integration
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="40" /> </p>
+
 
 OpenAI API
 

@@ -6,7 +6,7 @@
 
 🧑‍💻 About Me
 
-🔹 1+ year of experience as Junior Software Engineer (Peregrine IT Solutions)
+🔹 3+ year of experience as Junior Software Engineer (Peregrine IT Solutions)
 
 🔹 Final-year B.Tech (Computer Science) – RGPV Bhopal
 

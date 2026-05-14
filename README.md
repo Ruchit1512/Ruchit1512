@@ -8,7 +8,7 @@
 
 🔹 3+ year of experience as Junior Software Engineer (Peregrine IT Solutions)
 
-🔹 Final-year B.Tech (Computer Science) – RGPV Bhopal
+🔹 B.Tech (Computer Science) – RGPV Bhopal
 
 🔹 Experience in frontend, backend, authentication & database design
 
